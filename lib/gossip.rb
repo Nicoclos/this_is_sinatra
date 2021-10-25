@@ -7,4 +7,3 @@ class Gossip
       
 end
 
-binding.pry
