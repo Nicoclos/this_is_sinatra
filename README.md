@@ -6,3 +6,5 @@
   <li>  > Cette page d'accueil donnera un lien pour un formulaire où quiconque pourra ajouter un potin en base.</li>
   <li>  > Chaque potin aura une page dédiée.</li>
   <li>  > Il y a également la possibilité d'éditer des potins et de modifier leur contenu et leur auteur.</li>
+
+# Je n'ai pas fais le 2.7 (éditer un potin) et le 2.8 (commenter un potin)
