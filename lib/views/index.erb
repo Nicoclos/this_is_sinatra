@@ -5,6 +5,7 @@
   
     <body>
         <h1>Bienvenue à toi ! La liste des potins arrive bientôt ;)</h1>
+        <h2>Tu peux tout de même commencer à en écrire ! C'est par <a href="/gossips/new/">ici</a> !</h2>
         <% gossips.each_with_index do |gossip,index| %>
             <p>
                 <a href = 'gossips/<%= index %>' >Potin n°<%= index + 1 %></a><br>
